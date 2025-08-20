@@ -45,12 +45,12 @@ Each mini-game awards **points**, and the **highest score achieved is saved** to
 ## 📸 Demo  
 
 ### 🖼️ Screenshot
-![Mini-game Selector](https://imgur.com/ZGPOzEG.png)
-![Mini-game Tutorial](https://imgur.com/CvYeXrI.png)
-![Mini-game](https://imgur.com/v7GpbqN.png)
-![Score Screen](https://imgur.com/94HcJrA.png)
-![Game Over](https://imgur.com/WUDFjaa.png)
+![Mini-game Selector](https://imgur.com/InSFCOT.png)
+![Mini-game Tutorial](https://imgur.com/FVtGtef.png)
+![Mini-game](https://imgur.com/YOO8rPu.png)
+![Score Screen](https://imgur.com/DwxSf27.png)
+![Game Over](https://imgur.com/Fu3Kp3w.png)
 
 ### 🎥 Video Demo
 Click the image below to watch the demo
-[![Watch the video](https://imgur.com/undefined.png)](https://youtu.be/_iac1XYDXNU)
+[![Watch the video](https://imgur.com/qAcZ3oE.png)](https://youtu.be/_iac1XYDXNU)
