@@ -53,4 +53,5 @@ Each mini-game awards **points**, and the **highest score achieved is saved** to
 
 ### 🎥 Video Demo
 Click the image below to watch the demo
+
 [![Watch the video](https://imgur.com/eCo0s3h.png)](https://youtu.be/_iac1XYDXNU)
